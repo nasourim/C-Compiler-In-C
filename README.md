@@ -6,8 +6,11 @@ The Lexer works opun flex and the parser created with the help of bison
 
 # Commands
 flex "lexer files *.lex"
+
 bison "parser files *.y"
+
 gcc "output *.c file"
+
 ./a
 
 # Attention
